@@ -1,0 +1,9 @@
+D:\CESAR\Facu - Análise de Sistemas\4°Semestre\Programação Orientada a Objetos ll\Programacao\Calculadora\bin\Debug\Calculadora.exe.config
+D:\CESAR\Facu - Análise de Sistemas\4°Semestre\Programação Orientada a Objetos ll\Programacao\Calculadora\bin\Debug\Calculadora.exe
+D:\CESAR\Facu - Análise de Sistemas\4°Semestre\Programação Orientada a Objetos ll\Programacao\Calculadora\bin\Debug\Calculadora.pdb
+D:\CESAR\Facu - Análise de Sistemas\4°Semestre\Programação Orientada a Objetos ll\Programacao\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\CESAR\Facu - Análise de Sistemas\4°Semestre\Programação Orientada a Objetos ll\Programacao\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+D:\CESAR\Facu - Análise de Sistemas\4°Semestre\Programação Orientada a Objetos ll\Programacao\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\CESAR\Facu - Análise de Sistemas\4°Semestre\Programação Orientada a Objetos ll\Programacao\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\CESAR\Facu - Análise de Sistemas\4°Semestre\Programação Orientada a Objetos ll\Programacao\Calculadora\obj\Debug\Calculadora.exe
+D:\CESAR\Facu - Análise de Sistemas\4°Semestre\Programação Orientada a Objetos ll\Programacao\Calculadora\obj\Debug\Calculadora.pdb
